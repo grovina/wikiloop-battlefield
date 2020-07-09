@@ -136,13 +136,10 @@ Label-Month: Mois
 Label-Month.@meta.@description: >-
   Une étiquette pour la granularité du temps de panne des statistiques qui est
   ventilée par mois.
-Label-MyHistory: Mon histoire
+Label-MyHistory: Mon historique
 Label-MyHistory.@meta.@description: >-
   Une étiquette pour la liste des activités passées, des jugements rendus par le
   passé, etc., de l'utilisateur actuel qui utilise notre logiciel.
-Label-MyHistory.@meta.@isMachineTranslated: true
-Label-MyHistory.@meta.@translatedAt: '2020-07-07T19:26:51.442Z'
-Label-MyHistory.@meta.@translator: GoogleCloudTranslationAPI project-wikiloop
 Label-NewJudgement: Nouveau jugement
 Label-NewJudgement.@meta.@description: >-
   Un label pour un nouveau jugement donné à Wikipédia édité par notre
